@@ -58,12 +58,9 @@
 ---
 
 ## 📫 Contact Me
-- 🌍 Location: Silicon Valley, USA  
-- 📧 Email: cakra@example.com  
-- 💬 Discord: Cakra#1234  
-- 🔗 Portfolio: [https://cakra.dev](https://cakra.dev)  
-- 🔗 LinkedIn: [https://linkedin.com/in/cakra](https://linkedin.com/in/cakra)  
-- 🔗 Twitter: [https://twitter.com/cakra](https://twitter.com/cakra)
+- 🌍 Location: Indonesia  
+- 📧 Email: demonsgmal@gmail.com  
+- 💬 Discord: notwiicakra  
 
 ---
 
