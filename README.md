@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Cakra
 
-**Polyglot Developer | Open Source Enthusiast | AI & Web3 Explorer 🤖**
+**Polyglot Developer | Open Source Ninja | AI & Web3 Explorer 🤖**
 
 ---
 
@@ -13,10 +13,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -35,8 +33,8 @@
 ---
 
 ## 📫 Contact Me
-- 🌍 Location: Indonesia  
-- 📧 Email: demonsgmal@gmail.com 
+- 🌍 Location: Silicon Valley, USA  
+- 📧 Email: cakra@example.com  
 - 💬 Discord: Cakra#1234  
 - 🔗 Portfolio: [https://cakra.dev](https://cakra.dev)  
 - 🔗 LinkedIn: [https://linkedin.com/in/cakra](https://linkedin.com/in/cakra)  
@@ -51,6 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cakra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cakra&layout=compact&theme=radical)
+## 📊 GitHub Stats (Top Tier Showcase)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=radical&hide_border=false)
